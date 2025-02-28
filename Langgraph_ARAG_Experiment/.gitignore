@@ -1,3 +1,4 @@
 .env
 .venv/
 hotpotqa.db
+.ipynb_checkpoints/
