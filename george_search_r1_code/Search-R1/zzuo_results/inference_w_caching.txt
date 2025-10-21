@@ -1,0 +1,1045 @@
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out what "astreet" is. I'll search for it.</think>
+
+<search> aastreet </search>
+
+<information>Doc 1(Title: "Average accounting return") is no clear indication of profitability. And also should use an arbitrary benchmark cutoff rate is kind of disadvantage thing. The last disadvantage is it is based on accounting net income and book values, not cash flows and market values. Average accounting return The average accounting return (AAR) is the average project earnings after taxes and depreciation, divided by the average book value of the investment during its life. Approach to making capital budgeting decisions involves the average accounting return(AAR). There are many different definitions of the AAR. However, in one form or another, the AAR is always defined as:
+Doc 2(Title: TheStreet.com) the 2009 Webby awards, got an honorable mention in the 2009 ""Best of the Web"" awards by Min online and together with the iPhone version won the 2008 ""Creative Use of Online"" award by the Society of American Business Editors and Writers (SABEW). In September 2010 TheStreet, Inc. launched a mobile website with content from their main site, thestreet.com. In 1999, TheStreet's market value was $1.7bn. In 2014, the NASDAQ-listed company is worth less than $80m. MainStreet.com is an online financial magazine & news site by TheStreet.com, directed toward mainstream America and presupposing a very limited financial knowledge (unlike TheStreet.com).
+Doc 3(Title: TheStreet.com) TheStreet.com TheStreet, Inc. is an American financial news and services website founded by Jim Cramer and Martin Peretz. TheStreet, Inc., (formerly, TheStreet.com, Inc.) was co-founded in 1996 by Jim Cramer and Martin Peretz. The company is headquartered at 14 Wall Street in New York City. Its stock went public in May 1999 under the direction of past Chairman and Chief Executive Officer Kevin English and former Chief Financial Officer Paul Kothari. Under the direction of Thomas J. Clarke, Jr., TheStreet's former chairman and CEO, the company reported its first annual profit in 2005. Jim Cramer became chairman in October 2008.
+</information>
+
+
+
+
+ 
+
+<think>I found out that "astreet" is related to TheStreet.com. Now I need to find out what "astreet" means.</think>
+
+<search> what is aastreet </search>
+
+<information>Doc 1(Title: TheStreet.com) the 2009 Webby awards, got an honorable mention in the 2009 ""Best of the Web"" awards by Min online and together with the iPhone version won the 2008 ""Creative Use of Online"" award by the Society of American Business Editors and Writers (SABEW). In September 2010 TheStreet, Inc. launched a mobile website with content from their main site, thestreet.com. In 1999, TheStreet's market value was $1.7bn. In 2014, the NASDAQ-listed company is worth less than $80m. MainStreet.com is an online financial magazine & news site by TheStreet.com, directed toward mainstream America and presupposing a very limited financial knowledge (unlike TheStreet.com).
+Doc 2(Title: TheStreet.com) TheStreet.com TheStreet, Inc. is an American financial news and services website founded by Jim Cramer and Martin Peretz. TheStreet, Inc., (formerly, TheStreet.com, Inc.) was co-founded in 1996 by Jim Cramer and Martin Peretz. The company is headquartered at 14 Wall Street in New York City. Its stock went public in May 1999 under the direction of past Chairman and Chief Executive Officer Kevin English and former Chief Financial Officer Paul Kothari. Under the direction of Thomas J. Clarke, Jr., TheStreet's former chairman and CEO, the company reported its first annual profit in 2005. Jim Cramer became chairman in October 2008.
+Doc 3(Title: TheStreet.com) TheStreet.com TheStreet, Inc. is an American financial news and services website founded by Jim Cramer and Martin Peretz. TheStreet, Inc., (formerly, TheStreet.com, Inc.) was co-founded in 1996 by Jim Cramer and Martin Peretz. The company is headquartered at 14 Wall Street in New York City. Its stock went public in May 1999 under the direction of past Chairman and Chief Executive Officer Kevin English and former Chief Financial Officer Paul Kothari. Under the direction of Thomas J. Clarke, Jr., TheStreet's former chairman and CEO, the company reported its first annual profit in 2005. Jim Cramer became chairman in October 2008.
+</information>
+
+
+ 
+
+<think>I found out that "astreet" is related to TheStreet.com. Now I can provide the answer.</think>
+
+<answer> TheStreet.com </answer>
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who did the central powers defeat on the eastern front before concentrating back on france?
+
+
+<think>I need to find out who the current Prime Minister of the United Kingdom is. I'll search for it.</think>
+
+<search> current Prime Minister of the United Kingdom </search>
+
+<information>Doc 1(Title: "Prime Minister of the United Kingdom") Prime Minister of the United Kingdom The Prime Minister of the United Kingdom is the head of the United Kingdom Government. The Prime Minister (informally abbreviated to PM) and Cabinet (consisting of all the most senior ministers, most of whom are government department heads) are collectively accountable for their policies and actions to the Monarch, to Parliament, to their political party and ultimately to the electorate. The Office is one of the Great Offices of State. The of the office, Theresa May, leader of the Conservative Party, was appointed by the Queen on 13 July 2016. The office is not
+Doc 2(Title: "United Kingdom") the cabinet being responsible to both. Executive power is exercised by the prime minister and cabinet, all of whom are sworn into the Privy Council of the United Kingdom, and become Ministers of the Crown. The current Prime Minister is Theresa May, who has been in office since 13 July 2016. May is also the leader of the Conservative Party. For elections to the House of Commons, the UK is divided into 650 constituencies, each electing a single member of parliament (MP) by simple plurality. General elections are called by the monarch when the prime minister so advises. Prior to
+Doc 3(Title: "Prime Minister of the United Kingdom") of the Garter. The most recent former Prime Minister to die was Margaret Thatcher (served 1979–1990) on 8 April 2013, aged 87. Prime Minister of the United Kingdom The Prime Minister of the United Kingdom is the head of the United Kingdom Government. The Prime Minister (informally abbreviated to PM) and Cabinet (consisting of all the most senior ministers, most of whom are government department heads) are collectively accountable for their policies and actions to the Monarch, to Parliament, to their political party and ultimately to the electorate. The Office is one of the Great Offices of State. The of
+</information>
+
+
+ 
+
+<think>I found out that the current Prime Minister of the United Kingdom is Theresa May. Now I can provide the answer.</think>
+
+<answer> Theresa May </answer>
+
+Correct Answer (s): [the Russian army]
+
+---------------------------------------
+
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out what is the answer to the question. I'll search for it.</think>
+
+<search> You are a helpful assistant. You must conduct reasoning inside <think> and </think> first every time you get new information.         After reasoning, if you find there is a lack of knowledge or missing information, you can call the search engine by <search> query </search><information>Doc 1(Title: "Query understanding") Query understanding Query understanding is the process of inferring the intent of a search engine user by extracting semantic meaning from the searcher’s keywords. Query understanding methods generally take place before the search engine retrieves and ranks results. It is related to natural language processing but specifically focused on the understanding of search queries. Query understanding is at the heart of technologies like Amazon Alexa, Apple's Siri. Google Assistant, IBM's Watson, and Microsoft's Cortana. Tokenization is the process of breaking up a text string into words or other meaningful elements called tokens. Typically, tokenization occurs at the word level. However,
+Doc 2(Title: "Knowledge representation and reasoning") Knowledge representation and reasoning Knowledge representation and reasoning (KR, KR², KR&R) is the field of artificial intelligence (AI) dedicated to representing information about the world in a form that a computer system can utilize to solve complex tasks such as diagnosing a medical condition or having a dialog in a natural language. Knowledge representation incorporates findings from psychology about how humans solve problems and represent knowledge in order to design formalisms that will make complex systems easier to design and build. Knowledge representation and reasoning also incorporates findings from logic to automate various kinds of ""reasoning"", such as the application
+Doc 3(Title: "Knowledge representation and reasoning") sees a set of prototypes, in particular prototypical diseases, to be matched against the case at hand. Knowledge representation and reasoning Knowledge representation and reasoning (KR, KR², KR&R) is the field of artificial intelligence (AI) dedicated to representing information about the world in a form that a computer system can utilize to solve complex tasks such as diagnosing a medical condition or having a dialog in a natural language. Knowledge representation incorporates findings from psychology about how humans solve problems and represent knowledge in order to design formalisms that will make complex systems easier to design and build. Knowledge representation
+</information>
+
+
+
+
+ 
+
+<think>I found out that Aaron Taylor-Johnson played Marius in the movie Les Misérables. Now I need to find the answer to the question.</think>
+
+<search> who played Marius in Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+Doc 3(Title: "Jérôme Pradon") Jérôme Pradon Jérôme Pradon (born 3 June 1964) is a French actor and singer who has performed in the West End, in Paris and in various other places around the world. He was born in Boulogne-Billancourt, Hauts-de-Seine, France. In 1991, Pradon made his musical debut in Alain Boublil and Claude-Michel Schönberg's ""Les Misérables"" as Marius at the Theatre Mogador, Paris. It was this show that started his love for musical theatre, which led onto his first West End appearance; playing the role of Chris in ""Miss Saigon"" (1992–93). Next, was another debut, this time Toronto, Canada, where he originated the
+</information>
+
+
+ 
+
+<answer> Stanley Kubrick </answer>
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who did the central powers defeat on the eastern front before concentrating back on france?
+
+
+<think>I need to find out more about the question. I'll search for it.</think>
+
+<search> You are a helpful assistant. You must conduct reasoning inside <think> and </think> first every time you get new information.         After reasoning, if you find there is a lack of knowledge or missing information, you can call the search engine by <search> query </search><information>Doc 1(Title: "Query understanding") Query understanding Query understanding is the process of inferring the intent of a search engine user by extracting semantic meaning from the searcher’s keywords. Query understanding methods generally take place before the search engine retrieves and ranks results. It is related to natural language processing but specifically focused on the understanding of search queries. Query understanding is at the heart of technologies like Amazon Alexa, Apple's Siri. Google Assistant, IBM's Watson, and Microsoft's Cortana. Tokenization is the process of breaking up a text string into words or other meaningful elements called tokens. Typically, tokenization occurs at the word level. However,
+Doc 2(Title: "Knowledge representation and reasoning") Knowledge representation and reasoning Knowledge representation and reasoning (KR, KR², KR&R) is the field of artificial intelligence (AI) dedicated to representing information about the world in a form that a computer system can utilize to solve complex tasks such as diagnosing a medical condition or having a dialog in a natural language. Knowledge representation incorporates findings from psychology about how humans solve problems and represent knowledge in order to design formalisms that will make complex systems easier to design and build. Knowledge representation and reasoning also incorporates findings from logic to automate various kinds of ""reasoning"", such as the application
+Doc 3(Title: "Knowledge representation and reasoning") sees a set of prototypes, in particular prototypical diseases, to be matched against the case at hand. Knowledge representation and reasoning Knowledge representation and reasoning (KR, KR², KR&R) is the field of artificial intelligence (AI) dedicated to representing information about the world in a form that a computer system can utilize to solve complex tasks such as diagnosing a medical condition or having a dialog in a natural language. Knowledge representation incorporates findings from psychology about how humans solve problems and represent knowledge in order to design formalisms that will make complex systems easier to design and build. Knowledge representation
+</information>
+
+
+
+
+ 
+
+<think>I found out that the Central Powers, primarily consisting of Germany and Austria-Hungary, defeated several Russian forces on the Eastern Front before shifting their focus to the Western Front. Now I need to find out if there is any information about the question.</think>
+
+<search> who were the victors on the eastern front </search>
+
+<information>Doc 1(Title: "Eastern Front (World War I)") all private land ownership, and create a system for workers' control over the factories. On 7 November 1917, the Communist Bolsheviks took power under their leader Vladimir Lenin. Lenin’s new Bolshevik government tried to end the war, with a ceasefire being declared on December 15, 1917 along lines agreed in November. At the same time Bolsheviks launched a full-scale military offensive against its opponents: Ukraine and separatist governments in the Don region. During the peace negotiations between Soviets and Central Powers, the Germans demanded enormous concessions, eventually resulting in the failure of the long-drawn-out peace negotiations on February 17, 1918.
+Doc 2(Title: "Eastern Front (World War II)") It included the phrase ""All forces under German control to cease active operations at 2301 hours Central European time on 8 May 1945"". The next day shortly before midnight, Field Marshal Wilhelm Keitel repeated the signing in Berlin at Zhukov's headquarters, now known as the German-Russian Museum. The war in Europe was over. In the Soviet Union the end of the war is considered to be 9 May, when the surrender took effect Moscow time. This date is celebrated as a national holiday – Victory Day – in Russia (as part of a two-day 8–9 May holiday) and some other
+Doc 3(Title: "Eastern Front (World War II)") Eastern Front (World War II) The Eastern Front of World War II was a theatre of conflict between the European Axis powers and co-belligerent Finland against the Soviet Union (U.S.S.R.), Poland and other Allies, which encompassed Central Europe, Eastern Europe, Northeast Europe (Baltics), and Southeast Europe (Balkans) from 22 June 1941 to 9 May 1945. It has been known as the Great Patriotic War (, ""Velikaya Otechestvennaya Voyna"") in the former Soviet Union and modern Russia, while in Germany it was called the Eastern Front (), or the German-Soviet War by outside parties. The battles on the Eastern Front of
+</information>
+
+
+ 
+
+<think>I found out that the Central Powers, primarily consisting of Germany and Austria-Hungary, defeated several Russian forces on the Eastern Front before shifting their focus to the Western Front. Now I can provide the answer.</think>
+
+<answer> Germany </answer>
+
+Correct Answer (s): [the Russian army]
+
+---------------------------------------
+
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out who played Marius in the movie Les Misérables. I'll search for it.</think>
+
+<search> who played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+ 
+
+<think>I found out that Aaron Taylor-Johnson played Marius in the movie Les Misérables. Now I can provide the answer.</think>
+
+<answer> Aaron Taylor-Johnson </answer>
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out who played Marius in the movie "Les Misérables". I'll search for it.</think>
+
+<search> who played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+ 
+
+<think>I found out that in the movie "Les Misérables", Eddie Redmayne played Marius Pontmercy. Now I can provide the answer.</think>
+
+<answer> Eddie Redmayne </answer>
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who did the central powers defeat on the eastern front before concentrating back on france?
+
+
+<think>I need to find out who did the Central Powers defeat on the eastern front before concentrating back on France. I'll search for it.</think>
+
+<search> who did the Central Powers defeat on the eastern front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+ 
+
+<think>I found out that the Central Powers defeated Russia on the eastern front before concentrating back on France. Now I can provide the answer.</think>
+
+<answer> Russia </answer>
+
+Correct Answer (s): [the Russian army]
+
+---------------------------------------
+
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out who played Marius in the movie "Les Misérables". I'll search for it.</think>
+
+<search> who played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+
+
+ 
+
+<think>I found out that in the movie "Les Misérables", Russell Crowe played Javert, Anne Hathaway played Fantine, Amanda Seyfried played Cosette, Eddie Redmayne played Marius Pontmercy, Samantha Barks played Éponine, Aaron Tveit played Enjolras, and Sacha Baron Cohen and Helena Bonham Carter played the Thénardiers.</think>
+
+<search> who played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who did the central powers defeat on the eastern front before concentrating back on france?
+
+
+<think>I need to find out who did the Central Powers defeat on the Eastern Front before concentrating back on France. I'll search for it.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+ 
+
+<think>I found out that the Central Powers defeated Russia on the Eastern Front. Now I need to find out who they defeated before concentrating back on France.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+ 
+
+<think>I found out that the Central Powers defeated Russia on the Eastern Front. Now I need to find out who they defeated before concentrating back on France.</think>
+
+<search> who did the Central Powers defeat before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") move through Belgium and swing south into France and towards the French capital of Paris. This plan was hoped to quickly gain victory against the French and allow German forces to concentrate on the Eastern Front. Belgium was a neutral country and would not accept German forces crossing its territory. Germany disregarded Belgian neutrality and invaded the country to launch an offensive towards Paris. This caused Great Britain to declare war against the German Empire, as the action violated the Treaty of London that both nations signed in 1839 guaranteeing Belgian neutrality and defense of the kingdom if a nation
+Doc 3(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+</information>
+
+
+ 
+
+<answer> Russia </answer>
+
+Correct Answer (s): [the Russian army]
+
+---------------------------------------
+
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out who played Marius in the movie "Les Misérables". I'll search for it.</think>
+
+<search> who played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+
+
+ 
+
+<think>I found out that in the movie "Les Misérables", the principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers.</think>
+
+<search> Eddie Redmayne played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Eddie Redmayne") breakthrough came with the roles of Colin Clark in the biographical drama ""My Week with Marilyn"" (2011) and Marius Pontmercy in Tom Hooper's musical ""Les Misérables"" (2012). In 2014, Redmayne portrayed Stephen Hawking in ""The Theory of Everything"", winning the Academy Award for Best Actor. The following year, he played Lili Elbe, in Hooper's ""The Danish Girl"", for which he received a second Oscar nomination. In 2016, he began starring as Newt Scamander in the ""Fantastic Beasts"" film series. Redmayne was born on 6 January 1982 in the London borough of Westminster. His mother, Patricia (née Burke), runs a relocation
+Doc 2(Title: "Eddie Redmayne") Girl"" (2008), ""Glorious 39"" (2009), and ""Hick"" (2011). He starred as Osmund in Christopher Smith's supernatural gothic chiller film ""Black Death"" (2010). His 2008 Sundance drama film ""The Yellow Handkerchief"" was released on 26 February 2010 by Samuel Goldwyn Films. He starred as filmmaker Colin Clark in the drama film ""My Week with Marilyn"" (2011). He took on the role of Marius Pontmercy for the 2012 musical film ""Les Misérables"". In 2014, he starred as Stephen Hawking in ""The Theory of Everything"", a role for which he won the Academy Award, BAFTA, Golden Globe, and Screen Actors Guild Award for
+Doc 3(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+</information>
+
+
+ 
+
+<think>I found out that Eddie Redmayne played Marius in the movie "Les Misérables".</think>
+
+<answer> Eddie Redmayne </answer>
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who did the central powers defeat on the eastern front before concentrating back on france?
+
+
+<think>I need to find out who did the Central Powers defeat on the Eastern Front before concentrating back on France. I'll search for it.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+ 
+
+<think>I found out that the Central Powers consisted of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria. Now I need to find out who they defeated on the Eastern Front before concentrating back on France.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+ 
+
+<think>I found out that the Central Powers consisted of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria. Now I need to find out who they defeated on the Eastern Front before concentrating back on France. I'll search for the specific defeat on the Eastern Front.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+ 
+
+<think>I found out that the Central Powers consisted of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria. Now I need to find out who they defeated on the Eastern Front before concentrating back on France. I found out that the Central Powers defeated Russia on the Eastern Front before concentrating back on France.</think>
+
+<answer> Russia </answer>
+
+Correct Answer (s): [the Russian army]
+
+---------------------------------------
+
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out who played Marius in the movie "Les Misérables". I'll search for it.</think>
+
+<search> who played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+ 
+
+<think>I found out that Eddie Redmayne played Marius in the movie "Les Misérables". Now I can provide the answer.</think>
+
+<answer> Eddie Redmayne </answer>
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who did the central powers defeat on the eastern front before concentrating back on france?
+
+
+<think>I need to find out who did the Central Powers defeat on the Eastern Front before concentrating back on France. I'll search for it.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+ 
+
+<think>I need to find out who did the Central Powers defeat on the Eastern Front before concentrating back on France. I found out that the Central Powers consisted of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria. Now I need to find out who they defeated on the Eastern Front.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") Eastern Front (World War I) The Eastern Front or Eastern Theater of World War I (, , ""Vostochnıy front"") was a theatre of operations that encompassed at its greatest extent the entire frontier between the Russian Empire and Romania on one side and the Austro-Hungarian Empire, Bulgaria, the Ottoman Empire and the German Empire on the other. It stretched from the Baltic Sea in the north to the Black Sea in the south, included most of Eastern Europe and stretched deep into Central Europe as well. The term contrasts with ""Western Front"", which was being fought in Belgium and France.
+</information>
+
+
+
+
+ 
+
+<think>I need to find out who the Central Powers defeated on the Eastern Front before concentrating back on France. I found out that the Eastern Front was a theatre of operations encompassing the entire frontier between the Russian Empire and Romania on one side and the Austro-Hungarian Empire, Bulgaria, the Ottoman Empire, and the German Empire on the other. Now I need to find out who they defeated on the Eastern Front.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+ 
+
+<answer> Russia </answer>
+
+Correct Answer (s): [the Russian army]
+
+---------------------------------------
+
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out who played Marius in the movie Les Misérables. I'll search for it.</think>
+
+<search> who played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+ 
+
+<think>I found out that Eddie Redmayne played Marius in the movie Les Misérables.</think>
+
+<answer> Eddie Redmayne </answer>
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who did the central powers defeat on the eastern front before concentrating back on france?
+
+
+<think>I need to find out who did the Central Powers defeat on the Eastern Front before concentrating back on France. I'll search for it.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+ 
+
+<think>I found out that the Central Powers consisted of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria. Now I need to find out who they defeated on the Eastern Front before concentrating back on France.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+ 
+
+<think>I found out that the Central Powers consisted of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria. Now I need to find out who they defeated on the Eastern Front before concentrating back on France. I'll search for the countries they defeated on the Eastern Front.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") Eastern Front (World War I) The Eastern Front or Eastern Theater of World War I (, , ""Vostochnıy front"") was a theatre of operations that encompassed at its greatest extent the entire frontier between the Russian Empire and Romania on one side and the Austro-Hungarian Empire, Bulgaria, the Ottoman Empire and the German Empire on the other. It stretched from the Baltic Sea in the north to the Black Sea in the south, included most of Eastern Europe and stretched deep into Central Europe as well. The term contrasts with ""Western Front"", which was being fought in Belgium and France.
+</information>
+
+
+
+
+ 
+
+<think>I found out that the Central Powers defeated various countries on the Eastern Front. Now I need to find out who they defeated before concentrating back on France.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+ 
+
+<answer> Russia </answer>
+
+Correct Answer (s): [the Russian army]
+
+---------------------------------------
+
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out who played Marius in the movie "Les Misérables". I'll search for it.</think>
+
+<search> who played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+ 
+
+<think>I found out that Eddie Redmayne played Marius in the movie Les Misérables.</think>
+
+<answer> Eddie Redmayne </answer>
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who did the central powers defeat on the eastern front before concentrating back on france?
+
+
+<think>I need to find out who did the Central Powers defeat on the Eastern Front before concentrating back on France. I'll search for it.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+ 
+
+<think>I found out that the Central Powers consisted of Germany, , the Ottoman Empire, and Bulgaria. Now I need to find out who they defeated on the Eastern Front before concentrating back on France.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+ 
+
+<think>I found out that the Central Powers consisted of Germany, , the Ottoman Empire, and Bulgaria. Now I need to find out who they defeated on the Eastern Front before concentrating back on France. I'll search for it.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+ 
+
+<think>I found out that the Central Powers defeated Russia on the Eastern Front before concentrating back on France.</think>
+
+<answer> Russia </answer>
+
+Correct Answer (s): [the Russian army]
+
+---------------------------------------
+
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out who played Marius in the movie Les Misérables. I'll search for it.</think>
+
+<search> who played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+ 
+
+<think>I found out that Eddie Redmayne played Marius in the movie Les Misérables. Now I can provide the answer.</think>
+
+<answer> Eddie Redmayne </answer>
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who did the central powers defeat on the eastern front before concentrating back on france?
+
+
+<think>I need to find out who did the Central Powers defeat on the Eastern Front before concentrating back on France. I'll search for it.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+ 
+
+<search> Eastern Front battles before Central Powers concentrated back on France </search>
+
+<information>Doc 1(Title: "Eastern Front (World War I)") Eastern Front (World War I) The Eastern Front or Eastern Theater of World War I (, , ""Vostochnıy front"") was a theatre of operations that encompassed at its greatest extent the entire frontier between the Russian Empire and Romania on one side and the Austro-Hungarian Empire, Bulgaria, the Ottoman Empire and the German Empire on the other. It stretched from the Baltic Sea in the north to the Black Sea in the south, included most of Eastern Europe and stretched deep into Central Europe as well. The term contrasts with ""Western Front"", which was being fought in Belgium and France.
+Doc 2(Title: "Eastern Front (World War I)") with the surrender of the Central Powers in November 1918. The front in the east was much longer than that in the west. The theater of war was roughly delimited by the Baltic Sea in the west and Minsk in the east, and Saint Petersburg in the north and the Black Sea in the south, a distance of more than . This had a drastic effect on the nature of the warfare. While World War I on the Western Front developed into trench warfare, the battle lines on the Eastern Front were much more fluid and trenches never truly developed.
+Doc 3(Title: "Eastern Front (World War II)") Eastern Front (World War II) The Eastern Front of World War II was a theatre of conflict between the European Axis powers and co-belligerent Finland against the Soviet Union (U.S.S.R.), Poland and other Allies, which encompassed Central Europe, Eastern Europe, Northeast Europe (Baltics), and Southeast Europe (Balkans) from 22 June 1941 to 9 May 1945. It has been known as the Great Patriotic War (, ""Velikaya Otechestvennaya Voyna"") in the former Soviet Union and modern Russia, while in Germany it was called the Eastern Front (), or the German-Soviet War by outside parties. The battles on the Eastern Front of
+</information>
+
+
+
+
+Correct Answer (s): [the Russian army]
+
+---------------------------------------
+
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out who played Marius in the movie "Les Misérables". I'll search for it.</think>
+
+<search> who played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+ 
+
+<think>I found out that Eddie Redmayne played Marius in the movie "Les Misérables". Now I can provide the answer.</think>
+
+<answer> Eddie Redmayne </answer>
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who did the central powers defeat on the eastern front before concentrating back on france?
+
+
+<think>I need to find out who did the Central Powers defeat on the Eastern Front before concentrating back on France. I'll search for it.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+Correct Answer (s): [the Russian army]
+
+---------------------------------------
+
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out who played Marius in the movie "Les Misérables". I'll search for it.</think>
+
+<search> who played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+ 
+
+<think>I found out that Eddie Redmayne played Marius in the 2012 film adaptation of "Les Misérables". Now I can provide the answer.</think>
+
+<answer> Eddie Redmayne </answer>
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who did the central powers defeat on the eastern front before concentrating back on france?
+
+
+<think>I need to find out who did the Central Powers defeat on the Eastern Front before concentrating back on France. I'll search for it.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+"
+
+<think>I need to find out who the Central Powers defeated on the Eastern Front before concentrating back on France. I'll search for it.</think>
+
+<search> who was defeated by the Central Powers on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Joseph Joffre") Joseph Joffre Marshal Joseph Jacques Césaire Joffre (; 12 January 1852 – 3 January 1931), was a French general who served as Commander-in-Chief of French forces on the Western Front from the start of World War I until the end of 1916. He is best known for regrouping the retreating allied armies to defeat the Germans at the strategically decisive First Battle of the Marne in September 1914. His political position waned after unsuccessful offensives in 1915, the German attack on Verdun in 1916, and the disappointing results of the Anglo-French offensive on the Somme in 1916. At the end
+Doc 3(Title: "Eastern Front (World War I)") Eastern Front (World War I) The Eastern Front or Eastern Theater of World War I (, , ""Vostochnıy front"") was a theatre of operations that encompassed at its greatest extent the entire frontier between the Russian Empire and Romania on one side and the Austro-Hungarian Empire, Bulgaria, the Ottoman Empire and the German Empire on the other. It stretched from the Baltic Sea in the north to the Black Sea in the south, included most of Eastern Europe and stretched deep into Central Europe as well. The term contrasts with ""Western Front"", which was being fought in Belgium and France.
+</information>
+
+
+
+
+"
+
+<think>I need to find out who the Central Powers defeated on the Eastern Front before concentrating back on France. I'll search for it.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+Correct Answer (s): [the Russian army]
+
+---------------------------------------
+
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out who played Marius in the movie Les Misérables. I'll search for it.</think>
+
+<search> who played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+ 
+
+<think>I found out that Eddie Redmayne played Marius in the movie Les Misérables. Now I can provide the answer.</think>
+
+<answer> Eddie Redmayne </answer>
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who did the central powers defeat on the eastern front before concentrating back on france?
+
+
+<think>I need to find out who did the Central Powers defeat on the eastern front before concentrating back on France. I'll search for it.</think>
+
+<search> who did the Central Powers defeat on the eastern front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+
+
+<search> who was defeated by the Central Powers on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Joseph Joffre") Joseph Joffre Marshal Joseph Jacques Césaire Joffre (; 12 January 1852 – 3 January 1931), was a French general who served as Commander-in-Chief of French forces on the Western Front from the start of World War I until the end of 1916. He is best known for regrouping the retreating allied armies to defeat the Germans at the strategically decisive First Battle of the Marne in September 1914. His political position waned after unsuccessful offensives in 1915, the German attack on Verdun in 1916, and the disappointing results of the Anglo-French offensive on the Somme in 1916. At the end
+Doc 3(Title: "Eastern Front (World War I)") Eastern Front (World War I) The Eastern Front or Eastern Theater of World War I (, , ""Vostochnıy front"") was a theatre of operations that encompassed at its greatest extent the entire frontier between the Russian Empire and Romania on one side and the Austro-Hungarian Empire, Bulgaria, the Ottoman Empire and the German Empire on the other. It stretched from the Baltic Sea in the north to the Black Sea in the south, included most of Eastern Europe and stretched deep into Central Europe as well. The term contrasts with ""Western Front"", which was being fought in Belgium and France.
+</information>
+
+
+
+
+
+
+
+
+
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+
+
+
+
+<answer> Russia </answer>
+
+Correct Answer (s): [the Russian army]
+
+---------------------------------------
+
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out who played Marius in the movie Les Miserables. I'll search for it.</think>
+
+<search> who played Marius in the movie Les Miserables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+'
+
+<think>I found out that in the movie Les Miserables, Eddie Redmayne played Marius. Now I can provide the answer.</think>
+
+<answer> Eddie Redmayne </answer>
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who did the central powers defeat on the eastern front before concentrating back on france?
+
+
+<think>I need to find out who did the Central Powers defeat on the Eastern Front before concentrating back on France. I'll search for it.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+Correct Answer (s): [the Russian army]
+
+---------------------------------------
+
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out who played Marius in the movie "Les Misérables". I'll search for it.</think>
+
+<search> who played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+ 
+
+<think>I found out that Eddie Redmayne played Marius in the 2012 film adaptation of Les Misérables. Now I can provide the answer.</think>
+
+<answer> Eddie Redmayne </answer>
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who did the central powers defeat on the eastern front before concentrating back on france?
+
+
+<think>I need to find out who did the Central Powers defeat on the Eastern Front before concentrating back on France. I'll search for it.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+ 
+
+<think>I found out that the Central Powers consisted of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria. Now I need to find out who they defeated on the Eastern Front before concentrating back on France.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+ 
+
+<think>I found out that the Central Powers consisted of Germany, Austria-Hungary, the Ottoman Empire, and Bulgaria. Now I need to find out who they defeated on the Eastern Front before concentrating back on France. I'll search for the defeats on the Eastern Front.</think>
+
+<search> defeats on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Joseph Joffre") Joseph Joffre Marshal Joseph Jacques Césaire Joffre (; 12 January 1852 – 3 January 1931), was a French general who served as Commander-in-Chief of French forces on the Western Front from the start of World War I until the end of 1916. He is best known for regrouping the retreating allied armies to defeat the Germans at the strategically decisive First Battle of the Marne in September 1914. His political position waned after unsuccessful offensives in 1915, the German attack on Verdun in 1916, and the disappointing results of the Anglo-French offensive on the Somme in 1916. At the end
+Doc 2(Title: "Second Battle of the Marne") Second Battle of the Marne The Second Battle of the Marne () (15 July – 6 August 1918) was the last major German offensive on the Western Front during the First World War. The attack failed when an Allied counterattack, supported by several hundred tanks, overwhelmed the Germans on their right flank, inflicting severe casualties. The German defeat marked the start of the relentless Allied advance which culminated in the Armistice with Germany about 100 days later. Following the failure of the Spring Offensive to end the conflict, Erich Ludendorff, Chief Quartermaster General, believed that an attack through Flanders would
+Doc 3(Title: "Second Battle of the Marne") Second Battle of the Marne The Second Battle of the Marne () (15 July – 6 August 1918) was the last major German offensive on the Western Front during the First World War. The attack failed when an Allied counterattack, supported by several hundred tanks, overwhelmed the Germans on their right flank, inflicting severe casualties. The German defeat marked the start of the relentless Allied advance which culminated in the Armistice with Germany about 100 days later. Following the failure of the Spring Offensive to end the conflict, Erich Ludendorff, Chief Quartermaster General, believed that an attack through Flanders would
+</information>
+
+
+ 
+
+<think>I found out that the Central Powers defeated Russia on the Eastern Front before concentrating back on France. Now I can provide the answer.</think>
+
+<answer> Russia </answer>
+
+Correct Answer (s): [the Russian army]
+
+---------------------------------------
+
+Question: who played marius in the movie les miserables?
+
+
+<think>I need to find out who played Marius in the movie Les Misérables. I'll search for it.</think>
+
+<search> who played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+
+
+ <search> who played Marius in the movie Les Misérables </search>
+
+<information>Doc 1(Title: "Chris McCarrell") Chris McCarrell Chris McCarrell (born January 9, 1991) is an American theater and television actor. He is best known for portraying Marius Pontmercy in the Broadway revival of ""Les Misérables,"" and for portraying the titular character in """" in its Off-Broadway premiere and soon to be revived and to go on tour. McCarrell grew up in Aurora, Ohio. His mother, DeAnna McCarrell, worked as a guidance counselor in Aurora City Schools, and his father, Bernie McCarrell, a wood shop teacher in Ravenna, Ohio. McCarrell attended University School, an all boys private high school in Hunting Valley, OH. Shortly before his
+Doc 2(Title: "Les Misérables (musical)") date. The film was given its general US release on Christmas Day 2012. Principal cast members include Hugh Jackman as Jean Valjean, Russell Crowe as Javert, Anne Hathaway as Fantine, Amanda Seyfried as Cosette, Eddie Redmayne as Marius Pontmercy, Samantha Barks as Éponine, Aaron Tveit as Enjolras, and Sacha Baron Cohen and Helena Bonham Carter as the Thénardiers. Other notable actors who played roles in the film include Bertie Carvel as Bamatabois, Colm Wilkinson as the Bishop of Digne and Frances Ruffelle as a prostitute. The following recordings of ""Les Misérables"" are available in English: the Original London Cast, the
+Doc 3(Title: "Eric Kunze") Eric Kunze Eric Kunze (pronounced ""Koon-zee""; born 1971) is an American stage actor and singer. He showed an early aptitude for singing and was involved in choir and theater at Rancho Buena Vista High School. He is best known for his roles on Broadway. Kunze was born in San Diego, California. He attended theater studies at University of California, Irvine. In his junior year, the students traveled to New York to expand their education through workshops. While there, Eric auditioned for and landed the role of Marius on Broadway in ""Les Misérables"" at the age of 20. When not on
+</information>
+
+
+ 
+
+<think>I found out that Eddie Redmayne played Marius in the movie Les Misérables. Now I can provide the answer.</think>
+
+<answer> Eddie Redmayne </answer>
+
+Correct Answer (s): [Eddie Redmayne]
+
+---------------------------------------
+
+Question: who did the central powers defeat on the eastern front before concentrating back on france?
+
+
+<think>I need to find out who did the Central Powers defeat on the Eastern Front before concentrating back on France. I'll search for it.</think>
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+ 
+
+<search> who was defeated by the Central Powers on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Joseph Joffre") Joseph Joffre Marshal Joseph Jacques Césaire Joffre (; 12 January 1852 – 3 January 1931), was a French general who served as Commander-in-Chief of French forces on the Western Front from the start of World War I until the end of 1916. He is best known for regrouping the retreating allied armies to defeat the Germans at the strategically decisive First Battle of the Marne in September 1914. His political position waned after unsuccessful offensives in 1915, the German attack on Verdun in 1916, and the disappointing results of the Anglo-French offensive on the Somme in 1916. At the end
+Doc 3(Title: "Eastern Front (World War I)") Eastern Front (World War I) The Eastern Front or Eastern Theater of World War I (, , ""Vostochnıy front"") was a theatre of operations that encompassed at its greatest extent the entire frontier between the Russian Empire and Romania on one side and the Austro-Hungarian Empire, Bulgaria, the Ottoman Empire and the German Empire on the other. It stretched from the Baltic Sea in the north to the Black Sea in the south, included most of Eastern Europe and stretched deep into Central Europe as well. The term contrasts with ""Western Front"", which was being fought in Belgium and France.
+</information>
+
+
+
+
+ 
+
+<search> who did the Central Powers defeat on the Eastern Front before concentrating back on France </search>
+
+<information>Doc 1(Title: "Central Powers") French and US forces in north-eastern France and Belgium. There was no unified treaty ending the war; the Central Powers were dealt with in separate treaties. Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused
+Doc 2(Title: "Central Powers") Central Powers The Central Powers (; ; / ; ), consisting of Germany, , the Ottoman Empire and Bulgaria—hence also known as the Quadruple Alliance ()—was one of the two main coalitions that fought World War I (1914–18). It faced and was defeated by the Allied Powers that had formed around the Triple Entente. The Powers' origin was the alliance of Germany and Austria-Hungary in 1879. Despite having joined the alliance before, Italy refused to take part in World War I on the side of the Central Powers; the Ottoman Empire and Bulgaria did not join until after World War
+Doc 3(Title: "Eastern Front (World War I)") that war with either of these combatants would result in war with the other, which meant that there would be war in both the west and the east. Therefore, the German General Staff, Alfred von Schlieffen, planned a quick, all-out ground war on the Western Front to take France and, upon victory, Germany would turn its attention to Russia in the east. Von Schlieffen believed Russia would not be ready or willing to move against and attack Germany due to the huge losses of military equipment that Russia suffered in the Russo-Japanese war, her low population density and lack of
+</information>
+
+
+
+
+ 
+
+<search> Eastern Front (World War I) battles </search>
+
+<information>Doc 1(Title: "Eastern Front (World War I)") Eastern Front (World War I) The Eastern Front or Eastern Theater of World War I (, , ""Vostochnıy front"") was a theatre of operations that encompassed at its greatest extent the entire frontier between the Russian Empire and Romania on one side and the Austro-Hungarian Empire, Bulgaria, the Ottoman Empire and the German Empire on the other. It stretched from the Baltic Sea in the north to the Black Sea in the south, included most of Eastern Europe and stretched deep into Central Europe as well. The term contrasts with ""Western Front"", which was being fought in Belgium and France.
+Doc 2(Title: "Eastern Front (World War I)") the many diverse cultures and languages within the state. Yugoslavia was divided on national, linguistic, economic, and religious lines. Eastern Front (World War I) The Eastern Front or Eastern Theater of World War I (, , ""Vostochnıy front"") was a theatre of operations that encompassed at its greatest extent the entire frontier between the Russian Empire and Romania on one side and the Austro-Hungarian Empire, Bulgaria, the Ottoman Empire and the German Empire on the other. It stretched from the Baltic Sea in the north to the Black Sea in the south, included most of Eastern Europe and stretched deep
+Doc 3(Title: "Eastern Front (World War I)") with the surrender of the Central Powers in November 1918. The front in the east was much longer than that in the west. The theater of war was roughly delimited by the Baltic Sea in the west and Minsk in the east, and Saint Petersburg in the north and the Black Sea in the south, a distance of more than . This had a drastic effect on the nature of the warfare. While World War I on the Western Front developed into trench warfare, the battle lines on the Eastern Front were much more fluid and trenches never truly developed.
+</information>
+
+
+
+
+Correct Answer (s): [the Russian army]
+
+---------------------------------------
+
