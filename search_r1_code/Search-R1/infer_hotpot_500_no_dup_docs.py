@@ -1,4 +1,4 @@
-# built upon Deepti's infer_hotpot.py, added functionality to read from file and continue there, as well as use CPU inference, as well as status
+# HotpotQA val-500 inference loop with file-based resume, optional CPU inference, and a tqdm progress bar.
 import os
 import json
 from tqdm import tqdm
@@ -10,10 +10,10 @@ from datasets import load_dataset
 # if verbose is set to true, it will print out all the reasoning traces as they are generated
 # if verbose is set to false, it will show a progress bar of the overall generation progress
 verbose = False
-output_file_path = "zzuo_results/inference500_no_repeat_docs.txt"
+output_file_path = "results/inference500_no_repeat_docs.txt"
 
 # Global variable for the cache file path
-cache_file_path = "zzuo_results/retrieved_docs_cache.json"
+cache_file_path = "results/retrieved_docs_cache.json"
 
 # Ensure the cache file exists
 if not os.path.exists(cache_file_path):
@@ -21,7 +21,7 @@ if not os.path.exists(cache_file_path):
         json.dump({}, f)
 
 # Load dataset
-base_dir = "/project/pi_wenlongzhao_umass_edu/2/data/datasets/nq_hotpotqa"
+base_dir = os.path.join(os.environ.get("DATASET_DIR", "./data"), "nq_hotpotqa")
 dataset = load_dataset("parquet", data_files=f"{base_dir}/val_split_500.parquet")["train"]
 print(f"Loaded {len(dataset)} data points sampled from validataion split.")
 

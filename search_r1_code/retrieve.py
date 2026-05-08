@@ -1,4 +1,4 @@
-# George's retrieval experiment using inference20
+# Retrieval harness over the inference20 reasoning traces.
 import json
 import requests
 
@@ -7,7 +7,7 @@ url = "http://127.0.0.1:8000/retrieve"
 # file path for the inference outputs
 inference_file_path = "./inference20.md"
 # file path for the retrieval outputs (json)
-output_file = "./zzuo_retrieve_output.json"
+output_file = "./retrieve_output.json"
 
 # Example payload
 # payload = {

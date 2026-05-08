@@ -1,4 +1,4 @@
-# built upon Deepti's infer_hotpot.py, added functionality to read from file and continue there, as well as use CPU inference, as well as status
+# HotpotQA val-500 inference loop with cache-extracted retrieval and optional CPU inference.
 import os
 import re
 from tqdm import tqdm
@@ -10,10 +10,10 @@ from datasets import load_dataset
 # if verbose is set to true, it will print out all the reasoning traces as they are generated
 # if verbose is set to false, it will show a progress bar of the overall generation progress
 verbose = True
-output_file_path = "zzuo_results/inference_w_caching.txt"
+output_file_path = "results/inference_w_caching.txt"
 
 # Load dataset
-base_dir = "/project/pi_wenlongzhao_umass_edu/2/data/datasets/nq_hotpotqa"
+base_dir = os.path.join(os.environ.get("DATASET_DIR", "./data"), "nq_hotpotqa")
 dataset = load_dataset("parquet", data_files=f"{base_dir}/val_split_500.parquet")["train"]
 print(f"Loaded {len(dataset)} data points sampled from validataion split.")
 
@@ -36,10 +36,13 @@ tokenizer = transformers.AutoTokenizer.from_pretrained(model_id)
 model = transformers.AutoModelForCausalLM.from_pretrained(model_id, torch_dtype=torch.bfloat16, device_map={"":0})
 # model = transformers.AutoModelForCausalLM.from_pretrained(model_id, torch_dtype=torch.bfloat16, device_map="cpu")   # CPU inference
 
-# define another the model for generating the cache tags
-cache_model_id = "Qwen/Qwen2.5-75B-Instruct"
+# Auxiliary extractor model that compresses retrieved passages into a focused cache.
+# Set MODEL_HUB_DIR to a local snapshot path to avoid re-downloading; otherwise the
+# model id falls back to the public HuggingFace identifier.
+cache_model_id = "Qwen/Qwen2.5-7B-Instruct"
+cache_model_path = os.environ.get("MODEL_HUB_DIR", cache_model_id)
 cache_model = transformers.AutoModelForCausalLM.from_pretrained(
-    "/datasets/ai/qwen/hub/models--Qwen--Qwen2.5-7B-Instruct/snapshots/a09a35458c702b33eeacc393d103063234e8bc28",
+    cache_model_path,
     torch_dtype=torch.bfloat16,
     device_map={"": 1},
 )

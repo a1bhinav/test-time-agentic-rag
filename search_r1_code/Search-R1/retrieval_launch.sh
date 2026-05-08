@@ -1,5 +1,5 @@
 
-file_path=/project/pi_wenlongzhao_umass_edu/2/data/save_path
+file_path="${RETRIEVER_INDEX_DIR:-./data/save_path}"
 index_file=$file_path/e5_Flat.index
 corpus_file=$file_path/wiki-18.jsonl
 retriever_name=e5
