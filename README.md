@@ -2,7 +2,7 @@
 
 Code for the ACL SRW 2026 paper *Test-Time Strategies for More Efficient and Accurate Agentic RAG*.
 
-Paper: [link forthcoming once the paper is in the ACL Anthology].
+Paper: [[[link](https://aclanthology.org/2026.acl-srw.41.pdf)]].
 
 ## Abstract
 
